@@ -1,0 +1,34 @@
+FreeBSD_Framework
+	bin		looks good
+	cddl		looks good
+	contrib		deleted
+	crypto		
+		heimdal	
+			doc
+			kadmin and down
+
+	etc		looks good
+	games		looks good
+	gnu		looks good
+	include		looks good
+	kerberos5	looks good
+	lib		
+	libexec		
+	release		
+	rescue		looks good
+	sbin		
+	secure		
+	share		
+	sys		
+	tools		moved
+	usr.bin		
+	usr.sbin	
+
+FreeBSD_Tools
+	Documentation
+	Framework
+	Source
+
+README.md
+
+there might be some random config.h or such files around to be removed
