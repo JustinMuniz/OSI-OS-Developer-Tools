@@ -2,27 +2,25 @@ FreeBSD_Framework
 	bin		looks good
 	cddl		looks good
 	contrib		deleted
-	crypto		
-		heimdal	
-			doc
-			kadmin and down
-
+	crypto		looks good
 	etc		looks good
 	games		looks good
 	gnu		looks good
 	include		looks good
 	kerberos5	looks good
-	lib		
-	libexec		
-	release		
+	lib		96
+	libexec		looks good
+	release		looks good
 	rescue		looks good
-	sbin		
-	secure		
-	share		
-	sys		
+	sbin		97
+	secure		looks good
+	share		looks good
+	sys		42
 	tools		moved
-	usr.bin		
-	usr.sbin	
+	usr.bin		259
+	usr.sbin	184
+			bhyve and down
+			wlandebug and up
 
 FreeBSD_Tools
 	Documentation
