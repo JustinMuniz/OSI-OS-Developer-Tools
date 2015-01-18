@@ -30,3 +30,5 @@ FreeBSD_Tools
 README.md
 
 there might be some random config.h or such files around to be removed
+
+FreeBSD_Components: To store OS components that are marked to be replaced.
